@@ -1,2 +1,2 @@
 # LastCamp
-Last Capm is JS Web Game.
+Last Camp is JS Web Game.

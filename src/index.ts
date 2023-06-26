@@ -2,7 +2,7 @@
 
 import { Character } from "./objects/Player/Character";
 import { GameObject } from "./objects/GameObject";
-import { Bullet } from "./objects/Weapon/Bullet";
+import { Bullet } from "./objects/Weapon/Player/Bullet";
 
 
 // 3. 적은 랜덤으로 생성
